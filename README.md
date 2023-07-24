@@ -6,7 +6,7 @@ PRiO Logo
 # Overview
 PRiO | Powering Productivity is an RShiny web application designed to assist individuals in prioritizing their tasks using interactive versions of the Eisenhower and Action Priority Matrices. With PRiO, you can gain clarity on which tasks require immediate attention and which can be deferred or delegated, helping you focus on what truly matters and boosting your productivity.
 
-...add screenshot lol
+https://github.com/keepcreating-jelicia/PRiO/blob/main/prio_screenshot.png
 
 # Features
 Eisenhower Matrix: Classify your tasks into four quadrants: Urgent and Important, Important but not Urgent, Urgent but not Important, and Not Urgent or Important. This visual representation helps you understand the urgency and importance of each task.
