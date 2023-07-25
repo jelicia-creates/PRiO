@@ -1,5 +1,5 @@
 # RShinyApps
-Deploying RShiny App PRiO on Heroku
+Deploying RShiny App PRiO on ShinyAppsio
 PRiO - Prioritization of Important and Impactful Work
 PRiO Logo
 
