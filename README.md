@@ -19,7 +19,7 @@ Interactive Interface: PRiO provides an intuitive and interactive user interface
 Export your prioritized matrix for offline reference or sharing with colleagues selecting the "Take Screenshot" button.
 
 # Deployment
-PRiO is deployed on Heroku, making it easily accessible from any web browser without the need for local installations.
+PRiO is deployed on ShinyAppsIo, making it easily accessible from any web browser without the need for local installations. See here: bit.ly/prio-jr
 
 # Getting Started
 To run PRiO locally on your machine, follow these steps:
