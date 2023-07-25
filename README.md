@@ -1,7 +1,6 @@
-# RShinyApps
+# PRiO - An RShiny Application
 Deploying RShiny App PRiO on ShinyAppsio
 PRiO - Prioritization of Important and Impactful Work
-PRiO Logo
 
 # Overview
 PRiO | Powering Productivity is an RShiny web application designed to assist individuals in prioritizing their tasks using interactive versions of the Eisenhower and Action Priority Matrices. With PRiO, you can gain clarity on which tasks require immediate attention and which can be deferred or delegated, helping you focus on what truly matters and boosting your productivity.
